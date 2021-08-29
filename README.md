@@ -4,7 +4,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20SPECIALIST;WEB%20DEVELOPER;CYBER%20SECURITY%20RESEARCHER;BUG%20BOUNTY%20HUNTER&font=sans-serif&center=true&width=350&height=45&color=edbb5f&vCenter=true&size=22" />
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20SPECIALIST;WEB%20DEVELOPER;CYBER%20SECURITY%20RESEARCHER;BUG%20BOUNTY%20HUNTER&font=sans-serif&center=true&width=350&height=45&color=edbb5f&vCenter=true&size=22" /></a>
 </p>
 
 ## 📙 Top of my open source projects
@@ -34,7 +34,7 @@
 
 <!-- https://github.com/piuswalter/github-readme-streak-stats -->
 <p align="center">
-  <img alt="Streak streak" src="https://github-readme-streak-stats.herokuapp.com/?user=piuswalter&theme=default&hide_border=true&background=3d3d3d&stroke=edbb5f&ring=edbb5f&fire=edbb5f&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=edbb5f"/>
+  <a href="#"><img alt="Streak streak" src="https://github-readme-streak-stats.herokuapp.com/?user=piuswalter&theme=default&hide_border=true&background=3d3d3d&stroke=edbb5f&ring=edbb5f&fire=edbb5f&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=edbb5f"/></a>
 </p>
 
 <!-- https://github.com/badges/shields -->
@@ -63,52 +63,52 @@
 ### My used fameworks and libraries
 
 <p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
-  <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white&style=for-the-badge" />
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white&style=for-the-badge" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=numpy&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /></a>
+  <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ### My used databases and hosting
 
 <p>
-  <img alt="Apache HTTP Server" src="https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white&style=for-the-badge" />
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Let's Encrypt" src ="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?logo=letsencrypt&logoColor=white&style=for-the-badge" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" />
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img alt="Neo4J" src ="https://img.shields.io/badge/Neo4J-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" />
-  <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+  <a href="#"><img alt="Apache HTTP Server" src="https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Let's Encrypt" src ="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?logo=letsencrypt&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Neo4J" src ="https://img.shields.io/badge/Neo4J-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ### My used software and tools
 
 <p>
-  <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
-  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" />
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ## 📊 My GitHub stats
@@ -117,8 +117,8 @@
 <details> 
   <summary>GitHub Profile Stats</summary>
   <br />
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=piuswalter&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f" height="192px" />
-  <img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piuswalter&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f" height="192px" />
+  <a href="#"><img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=piuswalter&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f" height="192px" /></a>
+  <a href="#"><img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piuswalter&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f" height="192px" /></a>
   <br />
 </details>
 
@@ -126,7 +126,7 @@
 <details>
   <summary>Recent GitHub Activity</summary>
   <br />
-  <img alt="My recent GitHub activity" src="https://activity-graph.herokuapp.com/graph?username=piuswalter&bg_color=3d3d3d&color=edbb5f&line=edbb5f&point=ffffff&hide_border=true&area_color=edbb5f&area=true" />
+  <a href="#"><img alt="My recent GitHub activity" src="https://activity-graph.herokuapp.com/graph?username=piuswalter&bg_color=3d3d3d&color=edbb5f&line=edbb5f&point=ffffff&hide_border=true&area_color=edbb5f&area=true" /></a>
 </details>
 
 ---
