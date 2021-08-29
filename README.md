@@ -104,6 +104,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
+  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" />
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" />
