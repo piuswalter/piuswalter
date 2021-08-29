@@ -41,7 +41,7 @@
 
 ## 🛠️ My favorite tools
 
-### My used programming languages
+### My used programming and scripting languages
 
 <p>
   <a href="https://github.com/search?q=user%3Apiuswalter+Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
