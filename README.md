@@ -96,6 +96,7 @@
 ### My used software and tools
 
 <p>
+  <a href="#"><img alt="Bugcrowd" src="https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge" /></a>
