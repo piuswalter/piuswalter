@@ -11,9 +11,9 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/piuswalter/StudyOffline"><img width="282" alt="StudyOffline" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=piuswalter&repo=StudyOffline&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/piuswalter/LibreDoc"><img width="282" alt="LibreDoc" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=piuswalter&repo=LibreDoc&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/piuswalter/CryptoTradingSimulator"><img width="282" alt="PaperCoin" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=piuswalter&repo=CryptoTradingSimulator&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/piuswalter/StudyOffline"><img width="270" alt="StudyOffline" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=piuswalter&repo=StudyOffline&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/piuswalter/LibreDoc"><img width="270" alt="LibreDoc" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=piuswalter&repo=LibreDoc&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/piuswalter/CryptoTradingSimulator"><img width="270" alt="PaperCoin" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=piuswalter&repo=CryptoTradingSimulator&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
 </p>
 
 <!-- https://github.com/badges/shields -->
@@ -25,9 +25,9 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/p-fruck/jim"><img width="282" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=p-fruck&repo=jim&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/tjarbo/discord-moodle-bot"><img width="282" alt="Fancy-Moodle-Discord-Bot " src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tjarbo&repo=discord-moodle-bot&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
-  <a href="https://github.com/karlstroetmann/Formal-Languages"><img width="282" alt="Formal Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karlstroetmann&repo=Formal-Languages&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/p-fruck/jim"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=p-fruck&repo=jim&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/tjarbo/discord-moodle-bot"><img width="270" alt="Fancy-Moodle-Discord-Bot " src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tjarbo&repo=discord-moodle-bot&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/karlstroetmann/Formal-Languages"><img width="270" alt="Formal Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karlstroetmann&repo=Formal-Languages&theme=react&bg_color=3d3d3d&title_color=edbb5f&icon_color=edbb5f&hide_border=true&show_icons=false" /></a>
 </p>
 
 ## 🔥 Streak stats
